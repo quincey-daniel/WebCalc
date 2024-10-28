@@ -1,2 +1,0 @@
-# WebCalc
-simple app calculator
